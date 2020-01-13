@@ -1,4 +1,4 @@
-![JS-Applications-October-2019]()
+![JS-Fundamentals-May-2019]()
 
 ## За курса
 

@@ -1,4 +1,4 @@
-![JS-Fundamentals-May-2019]()
+![JS-Fundamentals-May-2019](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/ProgrammingFundamentals.jpg)
 
 ## За курса
 
@@ -44,6 +44,6 @@
 
 ## Сертификат
 
-![alt text](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/JSFundamentalsCertificate.jpeg)
+![Image Not Found](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/JSFundamentalsCertificate.jpeg)
 
 ---

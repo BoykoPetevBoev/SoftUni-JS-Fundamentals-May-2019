@@ -1,4 +1,8 @@
-![JS-Fundamentals-May-2019](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/ProgrammingFundamentals.jpg)
+![JS-Fundamentals-May-2019](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/_README/ProgrammingFundamentals.jpg)
+
+![Image Not Found](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/_README/JS-Fundamentals-Certificate)
+
+---
 
 ## За курса
 
@@ -41,12 +45,6 @@
 - QA Introduction
 - Unit Testing
 - Basic Web Project
-
-## Сертификат
-
-![Image Not Found](https://github.com/BoykoPetevBoev/JS-Fundamentals-May-2019/blob/master/JSFundamentalsCertificate.jpeg)
-
----
 
 ## Полезни линкове
 
